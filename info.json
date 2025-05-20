@@ -1,0 +1,66 @@
+{
+  "services": {
+    "id_application": {
+      "requirements": [
+        "Original birth certificate",
+        "Certified copy of parent/guardian ID (if under 16)",
+        "Proof of address",
+        "R140 application fee (if applicable)"
+      ],
+      "process": [
+        "Visit your nearest Department of Home Affairs office.",
+        "Complete the ID application form (Form BI-9).",
+        "Submit your documents to a DHA official.",
+        "Biometric data (photo, fingerprints) will be taken.",
+        "Receive a receipt and wait for notification when your ID is ready."
+      ],
+      "duration": "Approximately 14 working days.",
+      "online_services": "You can apply online at https://ehome.dha.gov.za/ehomeaffairs"
+    },
+    "birth_certificate": {
+      "requirements": [
+        "Notification of birth form (BI-24)",
+        "Mother’s ID or passport",
+        "Father’s ID or passport (if applicable)",
+        "Marriage certificate (if parents are married)"
+      ],
+      "process": [
+        "Report the birth at a Home Affairs office or hospital.",
+        "Complete the BI-24 form.",
+        "Submit parents' identification documents.",
+        "A birth certificate is issued free of charge if registered within 30 days."
+      ],
+      "duration": "Same day or up to 8 weeks (if late registration).",
+      "online_services": "Currently not available online. Must visit a DHA office."
+    },
+    "marriage_certificate": {
+      "requirements": [
+        "Identity documents of both parties",
+        "Two witnesses with valid IDs",
+        "Marriage officer appointment"
+      ],
+      "process": [
+        "Book an appointment with a registered marriage officer.",
+        "Submit completed marriage form and required IDs.",
+        "Conduct a legal marriage ceremony.",
+        "Marriage certificate issued on the same day."
+      ],
+      "duration": "Issued on the same day if all documents are correct.",
+      "online_services": "Not available online. Must be done at a DHA office or by a registered marriage officer."
+    },
+    "death_certificate": {
+      "requirements": [
+        "Notification of death form (BI-1663)",
+        "Deceased’s ID or passport",
+        "Doctor’s or nurse’s confirmation of death"
+      ],
+      "process": [
+        "Obtain a notification of death form from the hospital or doctor.",
+        "Submit the form and the deceased's ID at the Home Affairs office.",
+        "Death certificate is processed and issued."
+      ],
+      "duration": "Usually issued on the same day.",
+      "online_services": "Not available online. Must visit a DHA office."
+    }
+  }
+}
